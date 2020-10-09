@@ -1,7 +1,7 @@
+/*
 Пример подключения:
 
 #define LOG_FILE_NAME "Problems.log"
-typedef int ElemS;
 #include "Stack.h"
 
 Пример использования:
@@ -31,3 +31,4 @@ void StackDump(Stack * stack)
 void AllStacksDestruct()
 
 !!!Если функции(типа StackErrCode) возвращает != STACK_OK, стек не гарантирует корректную работу.
+*/
